@@ -1,0 +1,103 @@
+<mxfile host="65bd71144e">
+    <diagram id="HuLwhkuiQzGeeitj6oZZ" name="ページ-1">
+        <mxGraphModel dx="2927" dy="1185" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="ZbT7w3D9x9hVwfACsljt-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="音ゲーのリザルト管理アプリ" vertex="1">
+                    <mxGeometry height="30" width="190" x="70" y="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZbT7w3D9x9hVwfACsljt-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f8cecc;strokeColor=#b85450;" value="記録する" vertex="1">
+                    <mxGeometry height="60" width="120" x="170" y="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZbT7w3D9x9hVwfACsljt-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f8cecc;strokeColor=#b85450;" value="確認する" vertex="1">
+                    <mxGeometry height="60" width="120" x="450" y="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZbT7w3D9x9hVwfACsljt-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f8cecc;strokeColor=#b85450;" value="共有する" vertex="1">
+                    <mxGeometry height="60" width="120" x="1043" y="177" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZbT7w3D9x9hVwfACsljt-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="リザルトを保存する" vertex="1">
+                    <mxGeometry height="60" width="120" x="170" y="260" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZbT7w3D9x9hVwfACsljt-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="SNSに投稿する" vertex="1">
+                    <mxGeometry height="60" width="120" x="1203" y="257" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZbT7w3D9x9hVwfACsljt-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="リザルトを見る" vertex="1">
+                    <mxGeometry height="60" width="120" x="450" y="260" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZbT7w3D9x9hVwfACsljt-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="統計を見る" vertex="1">
+                    <mxGeometry height="60" width="120" x="620" y="257" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZbT7w3D9x9hVwfACsljt-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="他のユーザーの記録を見られるようにする" vertex="1">
+                    <mxGeometry height="60" width="120" x="1043" y="257" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZbT7w3D9x9hVwfACsljt-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="スクショで保存" vertex="1">
+                    <mxGeometry height="60" width="120" x="170" y="350" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZbT7w3D9x9hVwfACsljt-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="複数ゲーム&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;対応&lt;/span&gt;" vertex="1">
+                    <mxGeometry height="60" width="120" x="170" y="554" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZbT7w3D9x9hVwfACsljt-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="全体との比較" vertex="1">
+                    <mxGeometry height="60" width="120" x="900" y="554" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZbT7w3D9x9hVwfACsljt-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Discord連携" vertex="1">
+                    <mxGeometry height="60" width="120" x="1213" y="552" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZbT7w3D9x9hVwfACsljt-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="フレンド機能" vertex="1">
+                    <mxGeometry height="60" width="120" x="1060" y="550" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZbT7w3D9x9hVwfACsljt-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="期間指定" vertex="1">
+                    <mxGeometry height="60" width="120" x="750" y="453" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZbT7w3D9x9hVwfACsljt-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="曲・難易度ごと" vertex="1">
+                    <mxGeometry height="60" width="120" x="620" y="353" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZbT7w3D9x9hVwfACsljt-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="保存したリザルトをさかのぼる" vertex="1">
+                    <mxGeometry height="60" width="120" x="450" y="353" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZbT7w3D9x9hVwfACsljt-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="複数枚保存" vertex="1">
+                    <mxGeometry height="60" width="120" x="170" y="450" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZbT7w3D9x9hVwfACsljt-40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="手動で保存" vertex="1">
+                    <mxGeometry height="60" width="120" x="310" y="350" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZbT7w3D9x9hVwfACsljt-43" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" value="" vertex="1">
+                    <mxGeometry height="10" width="1700" x="-130" y="330" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZbT7w3D9x9hVwfACsljt-44" parent="1" style="line;strokeWidth=2;html=1;" value="" vertex="1">
+                    <mxGeometry height="10" width="1510" x="-140" y="426" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZbT7w3D9x9hVwfACsljt-45" parent="1" style="line;strokeWidth=2;html=1;" value="" vertex="1">
+                    <mxGeometry height="10" width="1780" x="-120" y="530" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZbT7w3D9x9hVwfACsljt-46" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="ウォーキングスケルトン&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="80" width="120" x="-270" y="340" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZbT7w3D9x9hVwfACsljt-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="プレイヤー" vertex="1">
+                    <mxGeometry height="30" width="80" x="120" y="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="kQTRlLoyu5_zNVzV6rV0-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="私" vertex="1">
+                    <mxGeometry height="30" width="80" x="-60" y="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="kQTRlLoyu5_zNVzV6rV0-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f8cecc;strokeColor=#b85450;" value="作る" vertex="1">
+                    <mxGeometry height="60" width="120" x="-70" y="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="kQTRlLoyu5_zNVzV6rV0-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="曲情報の登録" vertex="1">
+                    <mxGeometry height="60" width="120" x="-70" y="257" as="geometry"/>
+                </mxCell>
+                <mxCell id="kQTRlLoyu5_zNVzV6rV0-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="入力フォームの作成" vertex="1">
+                    <mxGeometry height="60" width="120" x="-70" y="353" as="geometry"/>
+                </mxCell>
+                <mxCell id="kQTRlLoyu5_zNVzV6rV0-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="攻略サイトから&lt;div&gt;スクレイピング&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="60" width="120" x="-70" y="450" as="geometry"/>
+                </mxCell>
+                <mxCell id="kQTRlLoyu5_zNVzV6rV0-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="達成率のような&lt;div&gt;指標の設定&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="60" width="120" x="980" y="353" as="geometry"/>
+                </mxCell>
+                <mxCell id="kQTRlLoyu5_zNVzV6rV0-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="グラフ表示" vertex="1">
+                    <mxGeometry height="60" width="120" x="980" y="453" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
