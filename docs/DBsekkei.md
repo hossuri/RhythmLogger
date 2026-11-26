@@ -12,7 +12,7 @@ chart_id|song_id|difficulty|level|notes|max_score
 -----ユーザー関連-----
 
 users(基本情報)
-user_id|user_name|e-mail|created_at|updated_at|password_hash
+user_id|user_name|email|created_at|updated_at|password_hash
 
 results(結果保存)
-results_id|user_id|chart_id|play_mode|raw_score|rate|rank|lamp|judgement_json|played_at
+results_id|user_id|chart_id|play_mode|judgement_json|raw_score|rate|rank|lamp|played_at
