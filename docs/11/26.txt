@@ -1,0 +1,13 @@
+Reactはclient
+Honoはserver
+で分かれてる
+clientからhttpリクエスト飛ばしてそれをHonoが受け取っていろいろやるかんじ
+
+DBeaverでPostgreSQLの操作をする方法を学び
+
+順番は
+Honoでデータベースいじる形のAPI作る
+↓
+ユーザーから送られた画像をPythonに投げてOCR
+↓
+reactの動作と画面作成
