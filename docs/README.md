@@ -33,7 +33,3 @@ TSがデータベース操作
 
 ローカルでPostgreSQLとHonoとReactをそれぞれ別サーバーみたいな感じで動かしてそいつらで通信させるって認識
 
-Reactはclient
-Honoはserver
-で別れてる
-clientからhttpリクエスト飛ばしてそれをHonoが受け取っていろいろやるかんじ

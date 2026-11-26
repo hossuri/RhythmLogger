@@ -22,9 +22,14 @@ app.get("/games", (c) =>{
 
 app.post("/post_result", async (c) =>{
   const body = await c.req.json();
-  // pythonに送信
+  // pythonに送
+  // 返ってきたOCR結果をデータベースに登録
   return c.json({ received: body})
 })
+
+
+
+
 
 app.get("/games", )
 
